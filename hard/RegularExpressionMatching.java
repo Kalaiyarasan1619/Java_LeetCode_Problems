@@ -31,12 +31,12 @@ public class RegularExpressionMatching {
 
     }
 
-    public static void main(String[] args) {
-        RegularExpressionMatching solution = new RegularExpressionMatching();
-        String s = "aab";
-        String p = "c*a*b";
-        boolean result = solution.isMatch(s, p);
-        System.out.println("Is match: " + result);
-    }
+    // public static void main(String[] args) {
+    //     RegularExpressionMatching solution = new RegularExpressionMatching();
+    //     String s = "aab";
+    //     String p = "c*a*b";
+    //     boolean result = solution.isMatch(s, p);
+    //     System.out.println("Is match: " + result);
+    // }
 
 }

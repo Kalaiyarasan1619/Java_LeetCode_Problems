@@ -21,11 +21,11 @@ public class PallindromeNumber {
 
     }
 
-    public static void main(String[] args) {
-        PallindromeNumber solution = new PallindromeNumber();
-        int x = 121;
-        boolean result = solution.isPalindrome(x);
-        System.out.println("Is palindrome: " + result);
-    }
+    // public static void main(String[] args) {
+    //     PallindromeNumber solution = new PallindromeNumber();
+    //     int x = 121;
+    //     boolean result = solution.isPalindrome(x);
+    //     System.out.println("Is palindrome: " + result);
+    // }
 
 }
